@@ -1,0 +1,8 @@
+{
+  "name": "Droner.cloud",
+  "description": "Black-and-white video and shorts platform for drone pilots to upload, share, and watch aerial flight footage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
